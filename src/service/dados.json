@@ -1,0 +1,55 @@
+{
+  "profile": {
+    "img": "https://via.placeholder.com/200x200",
+    "nome": "Rafael",
+    "sobrenome": "Castro",
+    "cidade": "Uberlândia",
+    "estado": "Minas Gerais",
+    "contato": "(34) 9276-4848",
+    "email": "rafaelcastrobernardino@gmail.com",
+    "biografia": "Olá, meu nome é Rafael, tenho 25 anos sou formado em Direito e hoje busco conhecimentos mais aprofundados na area computacional, visto está ser meu hobby.",
+    "redes_sociais": {
+      "github": "https://www.linkedin.com/in/rafael-castro-bernardino/",
+      "linkedin": "https://github.com/RafaelCastroBernardino/"
+    },
+    "experiencia": [
+      {
+        "id": 1,
+        "cargo": "Assitente de projetos Senior",
+        "empresa": "FAU",
+        "periodo": "novembro 2020 -  no local",
+        "atividades": "realização de gestãpo de recursos destinados a UFU"
+      },
+      {
+        "id": 2,
+        "cargo": "Estagio no Tribunal de Justiça de Minas Gerais",
+        "empresa": "Tribunal de Justiça de Minas Gerais",
+        "periodo": "novembro 2019 - novembro 2020",
+        "atividades": "Auxiliava a Magistrada em prolações de decisões realizando análises documentais, periciais, atuando em audiências de instrução"
+      },
+      {}
+    ],
+    "habilidades": [
+      "Registros documentais e processamento financeiro",
+      "Elaboração e análise de relatórios e documentos",
+      " Comunicação proativa"
+    ],
+    "projetos": [
+      {
+        "nome": "Projeto 1",
+        "link": "https://github.com/facebook/react",
+        "img": "https://via.placeholder.com/96x96"
+      },
+      {
+        "nome": "Projeto 2",
+        "link": "https://github.com/facebook/react",
+        "img": "https://via.placeholder.com/96x96"
+      },
+      {
+        "nome": "Projeto 3",
+        "link": "https://github.com/facebook/react",
+        "img": "https://via.placeholder.com/96x96"
+      }
+    ]
+  }
+}
